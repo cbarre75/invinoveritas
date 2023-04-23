@@ -1,3 +1,5 @@
+
+#Creation des vues
 from django.shortcuts import render
 from .models import Vin
 from datetime import datetime
