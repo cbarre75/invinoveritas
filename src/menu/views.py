@@ -19,4 +19,3 @@ def article(request, numero_article):
 
 
 
-
